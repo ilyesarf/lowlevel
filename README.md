@@ -7,4 +7,5 @@ TODO:
 - [ ] A bootrom & bootloader
 - [ ] A compiler
 - [ ] Some needed libs (libc & malloc)
+
 *More to come*
